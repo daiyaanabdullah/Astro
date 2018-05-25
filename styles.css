@@ -1,0 +1,17 @@
+body {
+      padding: 100px;
+}
+
+.first {
+    position: relative;
+    top: -40px;
+
+}
+.second {
+}
+.ribbon {
+    position: absolute;
+    top: 0;
+}
+.toplink {
+}
